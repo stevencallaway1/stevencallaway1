@@ -2,10 +2,15 @@
 
 Founder & CEO of ChiefOS.
 
-Building AI products focused on execution, workflow automation, and operator leverage.
+I build AI products for execution, workflow automation, and operator leverage.
 
-## Public project
+## Public work
 
+- [Oski](https://github.com/stevencallaway1/oski-agent): Slack-native AI ops agent for small teams. Typed tools, durable instructions, draft-first execution, cost caps, and optional reviewed tool generation.
+
+## Building
+
+- ChiefOS: AI operating layer for founders and executive teams
 - Wisprcat: On-device AI voice-to-text for macOS
 
 ## Links
