@@ -6,7 +6,7 @@ I build AI products for execution, workflow automation, and operator leverage.
 
 ## Public work
 
-- [Oski: The Self-Evolving AI Ops Agent](https://github.com/stevencallaway1/oski-agent): An AI operations runtime for small teams, built around typed tools, durable instructions, draft-first execution, cost controls, and reviewed tool generation.
+- [Oski: The Self-Evolving AI Ops Agent](https://github.com/stevencallaway1/oski-agent): An open-source AI operating system for internal team workflows. It can use tools, remember instructions, draft updates, track cost, and propose new capabilities through reviewed tool generation.
 
 ## Building
 
