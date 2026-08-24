@@ -1,6 +1,8 @@
 # Steven Callaway
 
-Founder & CEO of [ChiefOS](https://getchiefos.com). Previously Hire #1 at Cosine (YC W23).
+**Founder & CEO of [ChiefOS](https://getchiefos.com). Previously Hire #1 at [Cosine (YC W23)](https://cosine.sh/).**
+
+Before that, I spent eight years in venture capital, working across strategy, operations, GTM, and M&A.
 
 I build AI products for execution, workflow automation, and operator leverage.
 
@@ -22,4 +24,3 @@ I build AI products for execution, workflow automation, and operator leverage.
 - ChiefOS Website: [https://getchiefos.com](https://getchiefos.com)
 - Wisprcat Website: [https://wisprcat.com](https://wisprcat.com)
 - LinkedIn: [https://www.linkedin.com/in/steven-callaway-b9267330](https://www.linkedin.com/in/steven-callaway-b9267330)
-
