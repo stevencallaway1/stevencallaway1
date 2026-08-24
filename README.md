@@ -20,5 +20,6 @@ I build AI products for execution, workflow automation, and operator leverage.
 ## Links
 
 - ChiefOS Website: [https://getchiefos.com](https://getchiefos.com)
-- LinkedIn: [https://www.linkedin.com/in/steven-callaway-b9267330](https://www.linkedin.com/in/steven-callaway-b9267330)
 - Wisprcat Website: [https://wisprcat.com](https://wisprcat.com)
+- LinkedIn: [https://www.linkedin.com/in/steven-callaway-b9267330](https://www.linkedin.com/in/steven-callaway-b9267330)
+
